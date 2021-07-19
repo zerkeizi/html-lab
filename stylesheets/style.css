@@ -1,0 +1,36 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+section {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+section svg {
+    fill: #fff;
+    max-width: 40px;
+}
+
+section div input {
+    box-sizing: border-box;
+    display: block;
+    padding: 15px;
+    background-color: transparent;
+    width: 100%;
+}
+
+section button {
+    background-color: rgb(29, 161, 242);
+    padding: 15px;
+    border-radius: 30px;
+    width: 100%;
+    border: none;   
+}
+
+section button a {
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
